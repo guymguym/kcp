@@ -6,3 +6,6 @@ coverage.*
 tools
 build
 .vscode
+
+.venv
+.ipynb_checkpoints
