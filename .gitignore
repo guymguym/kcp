@@ -6,6 +6,7 @@ coverage.*
 tools
 build
 .vscode
+/vendor/
 
 # JetBrains IDE files
 .idea/
